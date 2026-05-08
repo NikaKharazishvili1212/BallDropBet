@@ -17,5 +17,8 @@ positions, and nothing plays out the same way twice.
   - 3rd–5th: −1 life, lower score
 - **Game over** at 0 lives — high score is saved between sessions
 
+## License
+This repository is for viewing purposes only. All content, including third-party assets, may not be reused, copied, or redistributed without explicit permission.
+
 ## Watch the Demo on YouTube
 [![Watch the demo](https://img.youtube.com/vi/9BHiWotYWJ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=9BHiWotYWJ0)
